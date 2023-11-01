@@ -80,6 +80,7 @@ cask "handbrake"
 cask "imageoptim"
 
 # Other apps
+cask "adobe-creative-cloud"
 cask "vlc"
 cask "macs-fan-control"
 cask "microsoft-excel"
