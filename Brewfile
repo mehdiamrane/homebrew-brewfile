@@ -16,6 +16,7 @@ tap "homebrew/cask-versions"
 tap "homebrew/command-not-found"
 tap "homebrew/core"
 tap "homebrew/services"
+tap "buo/cask-upgrade"
 
 # Configuration & Brew related
 brew "mas"
@@ -74,6 +75,7 @@ cask "rectangle"
 cask "shottr"
 cask "deepl"
 cask "raindropio"
+cask "notion"
 
 # Media apps
 cask "handbrake"
